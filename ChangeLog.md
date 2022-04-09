@@ -1,3 +1,3 @@
-# Changelog for odd-world
+# Changelog for odd
 
 ## Unreleased changes
